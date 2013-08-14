@@ -1,4 +1,4 @@
-# Assigns workload
+# Testing. Assigns workload
 import pika
 import sys
 
