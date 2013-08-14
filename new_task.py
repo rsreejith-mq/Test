@@ -1,3 +1,4 @@
+# new_task.py
 import pika
 import sys
 
