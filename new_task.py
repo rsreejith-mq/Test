@@ -1,3 +1,4 @@
+# Assigns workload
 import pika
 import sys
 
