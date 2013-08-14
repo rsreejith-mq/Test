@@ -1,4 +1,4 @@
-# new_task.py
+# File: new_task.py
 import pika
 import sys
 
