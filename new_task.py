@@ -1,4 +1,5 @@
 # new_task.py
+>>>>>>> cc596a4250d9b33af8f081dc91e984212c837e74
 import pika
 import sys
 
